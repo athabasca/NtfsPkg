@@ -1,0 +1,6 @@
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = NtfsPkg
+  PACKAGE_GUID                   = c15f2ab5-029c-41d9-9dc8-712e021ceb68
+  PACKAGE_VERSION                = 1.0
+
