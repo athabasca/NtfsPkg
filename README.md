@@ -1,6 +1,6 @@
 # Baby's First UEFI Driver
 
-This is an open source NTFS driver with added code to write a file to the Windows startup folder---a toy bootkit used to learn UEFI driver development concepts.
+This is an open source NTFS driver with added code to write a file to the Windows startup folder—a toy bootkit used to learn UEFI driver development concepts.
 
 I describe what I learned in detail in this [blog post](TODO link). This README reproduces the build process section of the post.
 
